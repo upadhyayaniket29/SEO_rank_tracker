@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="col-span-2">
                         <div className="flex items-center gap-2 mb-4">
                             <ChartNoAxesColumnIcon className="text-primary" />
-                            <span className="text-xl">Rank Pilot</span>
+                            <span className="text-xl">Veltrix</span>
                         </div>
                         <p className="text-sm text-muted-foreground mb-6 w-5/6">Optimize your website for search engines with AI-powered insights and real-time tracking.</p>
                         <div className="flex items-center gap-4">

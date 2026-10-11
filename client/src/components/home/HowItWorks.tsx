@@ -8,7 +8,7 @@ export default function HowItWorks() {
                 <h2 className="text-3xl sm:text-4xl font-semibold mb-6 text-foreground">
                     How It <span className="gradient-text">Works</span>
                 </h2>
-                <p className="text-muted-foreground max-w-xl mx-auto">Rank Pilot uses advanced browser automation and AI to simulate a real user experience and provide deep SEO insights.</p>
+                <p className="text-muted-foreground max-w-xl mx-auto">Veltrix uses advanced browser automation and AI to simulate a real user experience and provide deep SEO insights.</p>
             </div>
 
             <div className="relative grid grid-cols-1 md:grid-cols-3 gap-8">
