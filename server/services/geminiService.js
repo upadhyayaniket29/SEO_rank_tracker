@@ -111,7 +111,8 @@ export async function analyzeSeoData(scrapedData) {
         Extract top 10 keywords by frequency from the page content.`;
 
         const response = await ai.models.generateContent({
-            model: "gemma-4-31b-it",
+            // model: "gemma-4-31b-it",
+            model: "gemma-4-26b-a4b-it",
             contents: [{ role: "user", parts: [{ text: prompt }] }],
             config: {
                 responseMimeType: "application/json",
